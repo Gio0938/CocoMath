@@ -1,0 +1,486 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Factoriza: x^2 - 9",
+    "respuesta_correcta": "(x+3)(x-3)",
+    "nivel": 1,
+    "tipo_factorizacion": "diferencia_cuadrados",
+    "errores_asociados": ["signo", "identificacion"]
+  },
+  {
+    "id": 2,
+    "pregunta": "Factoriza: x^2 - 16",
+    "respuesta_correcta": "(x+4)(x-4)",
+    "nivel": 1,
+    "tipo_factorizacion": "diferencia_cuadrados",
+    "errores_asociados": ["signo"]
+  },
+  {
+    "id": 3,
+    "pregunta": "Factoriza: x^2 - 25",
+    "respuesta_correcta": "(x+5)(x-5)",
+    "nivel": 1,
+    "tipo_factorizacion": "diferencia_cuadrados",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 4,
+    "pregunta": "Factoriza: x^2 - 36",
+    "respuesta_correcta": "(x+6)(x-6)",
+    "nivel": 1,
+    "tipo_factorizacion": "diferencia_cuadrados",
+    "errores_asociados": ["signo", "procedimiento"]
+  },
+  {
+    "id": 5,
+    "pregunta": "Factoriza: x^2 - 49",
+    "respuesta_correcta": "(x+7)(x-7)",
+    "nivel": 1,
+    "tipo_factorizacion": "diferencia_cuadrados",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 6,
+    "pregunta": "Factoriza: x^2 + 4x",
+    "respuesta_correcta": "x(x+4)",
+    "nivel": 1,
+    "tipo_factorizacion": "factor_comun",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 7,
+    "pregunta": "Factoriza: x^2 + 5x",
+    "respuesta_correcta": "x(x+5)",
+    "nivel": 1,
+    "tipo_factorizacion": "factor_comun",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 8,
+    "pregunta": "Factoriza: x^2 + 7x",
+    "respuesta_correcta": "x(x+7)",
+    "nivel": 1,
+    "tipo_factorizacion": "factor_comun",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 9,
+    "pregunta": "Factoriza: x^2 + 9x",
+    "respuesta_correcta": "x(x+9)",
+    "nivel": 1,
+    "tipo_factorizacion": "factor_comun",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 10,
+    "pregunta": "Factoriza: x^2 + 12x",
+    "respuesta_correcta": "x(x+12)",
+    "nivel": 1,
+    "tipo_factorizacion": "factor_comun",
+    "errores_asociados": ["signo"]
+  },
+  {
+    "id": 11,
+    "pregunta": "Factoriza: x^2 + 2x + 1",
+    "respuesta_correcta": "(x+1)^2",
+    "nivel": 1,
+    "tipo_factorizacion": "trinomio_cuadrado_perfecto",
+    "errores_asociados": ["identificacion", "procedimiento"]
+  },
+  {
+    "id": 12,
+    "pregunta": "Factoriza: x^2 + 4x + 4",
+    "respuesta_correcta": "(x+2)^2",
+    "nivel": 1,
+    "tipo_factorizacion": "trinomio_cuadrado_perfecto",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 13,
+    "pregunta": "Factoriza: x^2 + 6x + 9",
+    "respuesta_correcta": "(x+3)^2",
+    "nivel": 1,
+    "tipo_factorizacion": "trinomio_cuadrado_perfecto",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 14,
+    "pregunta": "Factoriza: x^2 + 8x + 16",
+    "respuesta_correcta": "(x+4)^2",
+    "nivel": 1,
+    "tipo_factorizacion": "trinomio_cuadrado_perfecto",
+    "errores_asociados": ["signo"]
+  },
+  {
+    "id": 15,
+    "pregunta": "Factoriza: x^2 + 10x + 25",
+    "respuesta_correcta": "(x+5)^2",
+    "nivel": 1,
+    "tipo_factorizacion": "trinomio_cuadrado_perfecto",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 16,
+    "pregunta": "Factoriza: x^2 - 64",
+    "respuesta_correcta": "(x+8)(x-8)",
+    "nivel": 1,
+    "tipo_factorizacion": "diferencia_cuadrados",
+    "errores_asociados": ["signo"]
+  },
+  {
+    "id": 17,
+    "pregunta": "Factoriza: x^2 + 15x",
+    "respuesta_correcta": "x(x+15)",
+    "nivel": 1,
+    "tipo_factorizacion": "factor_comun",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 18,
+    "pregunta": "Factoriza: x^2 + 12x + 36",
+    "respuesta_correcta": "(x+6)^2",
+    "nivel": 1,
+    "tipo_factorizacion": "trinomio_cuadrado_perfecto",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 19,
+    "pregunta": "Factoriza: x^2 - 81",
+    "respuesta_correcta": "(x+9)(x-9)",
+    "nivel": 1,
+    "tipo_factorizacion": "diferencia_cuadrados",
+    "errores_asociados": ["signo", "procedimiento"]
+  },
+  {
+    "id": 20,
+    "pregunta": "Factoriza: x^2 + 20x",
+    "respuesta_correcta": "x(x+20)",
+    "nivel": 1,
+    "tipo_factorizacion": "factor_comun",
+    "errores_asociados": ["procedimiento"]
+  },
+
+  {
+    "id": 21,
+    "pregunta": "Factoriza: 4x^2 - 25",
+    "respuesta_correcta": "(2x+5)(2x-5)",
+    "nivel": 2,
+    "tipo_factorizacion": "diferencia_cuadrados",
+    "errores_asociados": ["signo", "procedimiento"]
+  },
+  {
+    "id": 22,
+    "pregunta": "Factoriza: 9x^2 - 49",
+    "respuesta_correcta": "(3x+7)(3x-7)",
+    "nivel": 2,
+    "tipo_factorizacion": "diferencia_cuadrados",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 23,
+    "pregunta": "Factoriza: 16x^2 - 81",
+    "respuesta_correcta": "(4x+9)(4x-9)",
+    "nivel": 2,
+    "tipo_factorizacion": "diferencia_cuadrados",
+    "errores_asociados": ["signo"]
+  },
+  {
+    "id": 24,
+    "pregunta": "Factoriza: 25x^2 - 1",
+    "respuesta_correcta": "(5x+1)(5x-1)",
+    "nivel": 2,
+    "tipo_factorizacion": "diferencia_cuadrados",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 25,
+    "pregunta": "Factoriza: 36x^2 - 64",
+    "respuesta_correcta": "(6x+8)(6x-8)",
+    "nivel": 2,
+    "tipo_factorizacion": "diferencia_cuadrados",
+    "errores_asociados": ["signo", "identificacion"]
+  },
+  {
+    "id": 26,
+    "pregunta": "Factoriza: 2x^2 + 8x",
+    "respuesta_correcta": "2x(x+4)",
+    "nivel": 2,
+    "tipo_factorizacion": "factor_comun",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 27,
+    "pregunta": "Factoriza: 3x^2 + 12x",
+    "respuesta_correcta": "3x(x+4)",
+    "nivel": 2,
+    "tipo_factorizacion": "factor_comun",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 28,
+    "pregunta": "Factoriza: 5x^2 + 15x",
+    "respuesta_correcta": "5x(x+3)",
+    "nivel": 2,
+    "tipo_factorizacion": "factor_comun",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 29,
+    "pregunta": "Factoriza: 7x^2 + 21x",
+    "respuesta_correcta": "7x(x+3)",
+    "nivel": 2,
+    "tipo_factorizacion": "factor_comun",
+    "errores_asociados": ["signo"]
+  },
+  {
+    "id": 30,
+    "pregunta": "Factoriza: 10x^2 + 50x",
+    "respuesta_correcta": "10x(x+5)",
+    "nivel": 2,
+    "tipo_factorizacion": "factor_comun",
+    "errores_asociados": ["procedimiento"]
+  },
+
+  {
+    "id": 31,
+    "pregunta": "Factoriza: x^2 + 14x + 49",
+    "respuesta_correcta": "(x+7)^2",
+    "nivel": 2,
+    "tipo_factorizacion": "trinomio_cuadrado_perfecto",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 32,
+    "pregunta": "Factoriza: x^2 + 16x + 64",
+    "respuesta_correcta": "(x+8)^2",
+    "nivel": 2,
+    "tipo_factorizacion": "trinomio_cuadrado_perfecto",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 33,
+    "pregunta": "Factoriza: x^2 + 18x + 81",
+    "respuesta_correcta": "(x+9)^2",
+    "nivel": 2,
+    "tipo_factorizacion": "trinomio_cuadrado_perfecto",
+    "errores_asociados": ["signo"]
+  },
+  {
+    "id": 34,
+    "pregunta": "Factoriza: 4x^2 + 12x + 9",
+    "respuesta_correcta": "(2x+3)^2",
+    "nivel": 2,
+    "tipo_factorizacion": "trinomio_cuadrado_perfecto",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 35,
+    "pregunta": "Factoriza: 9x^2 + 24x + 16",
+    "respuesta_correcta": "(3x+4)^2",
+    "nivel": 2,
+    "tipo_factorizacion": "trinomio_cuadrado_perfecto",
+    "errores_asociados": ["procedimiento"]
+  },
+
+  {
+    "id": 36,
+    "pregunta": "Factoriza: 49x^2 - 100",
+    "respuesta_correcta": "(7x+10)(7x-10)",
+    "nivel": 2,
+    "tipo_factorizacion": "diferencia_cuadrados",
+    "errores_asociados": ["signo"]
+  },
+  {
+    "id": 37,
+    "pregunta": "Factoriza: 12x^2 + 24x",
+    "respuesta_correcta": "12x(x+2)",
+    "nivel": 2,
+    "tipo_factorizacion": "factor_comun",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 38,
+    "pregunta": "Factoriza: x^2 + 20x + 100",
+    "respuesta_correcta": "(x+10)^2",
+    "nivel": 2,
+    "tipo_factorizacion": "trinomio_cuadrado_perfecto",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 39,
+    "pregunta": "Factoriza: 64x^2 - 121",
+    "respuesta_correcta": "(8x+11)(8x-11)",
+    "nivel": 2,
+    "tipo_factorizacion": "diferencia_cuadrados",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 40,
+    "pregunta": "Factoriza: 15x^2 + 45x",
+    "respuesta_correcta": "15x(x+3)",
+    "nivel": 2,
+    "tipo_factorizacion": "factor_comun",
+    "errores_asociados": ["signo"]
+  },
+
+  {
+    "id": 41,
+    "pregunta": "Factoriza: x^2 + 5x + 6",
+    "respuesta_correcta": "(x+2)(x+3)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["procedimiento", "identificacion"]
+  },
+  {
+    "id": 42,
+    "pregunta": "Factoriza: x^2 + 7x + 12",
+    "respuesta_correcta": "(x+3)(x+4)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["signo"]
+  },
+  {
+    "id": 43,
+    "pregunta": "Factoriza: x^2 + 9x + 20",
+    "respuesta_correcta": "(x+4)(x+5)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 44,
+    "pregunta": "Factoriza: x^2 + 11x + 30",
+    "respuesta_correcta": "(x+5)(x+6)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 45,
+    "pregunta": "Factoriza: x^2 + 13x + 42",
+    "respuesta_correcta": "(x+6)(x+7)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["signo", "procedimiento"]
+  },
+  {
+    "id": 46,
+    "pregunta": "Factoriza: x^2 - x - 6",
+    "respuesta_correcta": "(x-3)(x+2)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["signo"]
+  },
+  {
+    "id": 47,
+    "pregunta": "Factoriza: x^2 - 5x + 6",
+    "respuesta_correcta": "(x-2)(x-3)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 48,
+    "pregunta": "Factoriza: x^2 - 7x + 10",
+    "respuesta_correcta": "(x-5)(x-2)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 49,
+    "pregunta": "Factoriza: x^2 - 9x + 20",
+    "respuesta_correcta": "(x-5)(x-4)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["signo"]
+  },
+  {
+    "id": 50,
+    "pregunta": "Factoriza: x^2 - 10x + 21",
+    "respuesta_correcta": "(x-7)(x-3)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 51,
+    "pregunta": "Factoriza: 2x^2 + 7x + 3",
+    "respuesta_correcta": "(2x+1)(x+3)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 52,
+    "pregunta": "Factoriza: 3x^2 + 11x + 6",
+    "respuesta_correcta": "(3x+2)(x+3)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 53,
+    "pregunta": "Factoriza: 2x^2 - 5x - 3",
+    "respuesta_correcta": "(2x+1)(x-3)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["signo"]
+  },
+  {
+    "id": 54,
+    "pregunta": "Factoriza: 4x^2 - 4x - 15",
+    "respuesta_correcta": "(2x+3)(2x-5)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["procedimiento", "identificacion"]
+  },
+  {
+    "id": 55,
+    "pregunta": "Factoriza: 5x^2 + 13x + 6",
+    "respuesta_correcta": "(5x+3)(x+2)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 56,
+    "pregunta": "Factoriza: 6x^2 - x - 2",
+    "respuesta_correcta": "(3x-2)(2x+1)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["signo", "procedimiento"]
+  },
+  {
+    "id": 57,
+    "pregunta": "Factoriza: 3x^2 - 14x + 8",
+    "respuesta_correcta": "(3x-2)(x-4)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["procedimiento"]
+  },
+  {
+    "id": 58,
+    "pregunta": "Factoriza: 2x^2 + x - 15",
+    "respuesta_correcta": "(2x-5)(x+3)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["signo"]
+  },
+  {
+    "id": 59,
+    "pregunta": "Factoriza: 4x^2 + 4x - 3",
+    "respuesta_correcta": "(2x-1)(2x+3)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["identificacion"]
+  },
+  {
+    "id": 60,
+    "pregunta": "Factoriza: 6x^2 + 11x + 3",
+    "respuesta_correcta": "(3x+1)(2x+3)",
+    "nivel": 3,
+    "tipo_factorizacion": "trinomio_general",
+    "errores_asociados": ["procedimiento", "signo"]
+  }
+]
