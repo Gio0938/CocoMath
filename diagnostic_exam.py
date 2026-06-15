@@ -156,7 +156,7 @@ def ejecutar_examen_diagnostico(
             ejercicio_id=pregunta["id"],
             correcto=correcta,
             tiempo_respuesta=tiempo,
-            tipo_error=tipo_error if not correcta else None
+            tipo_error=tipo_error
         )
 
     # =========================

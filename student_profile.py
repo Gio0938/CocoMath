@@ -38,8 +38,8 @@ class StudentProfile:
         else:
             self.errores += 1
 
-            if tipo_error:
-                self.errores_frecuentes.append(tipo_error)
+        if tipo_error:
+            self.errores_frecuentes.append(tipo_error)
 
         # Actualizar tiempo promedio
         total = self.ejercicios_resueltos
