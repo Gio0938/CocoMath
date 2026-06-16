@@ -6,7 +6,7 @@ Sistema de aprendizaje adaptativo para ejercicios de **factorización algebraica
 
 ## 📌 ¿Qué es CocoMath?
 
-CocoMath es una plataforma educativa inteligente que:
+CocoMath es un modelo de Machine Learning que:
 
 - Aplica un **examen diagnóstico** al estudiante para detectar su nivel inicial
 - Usa **Machine Learning** para predecir el tipo de error que comete
@@ -258,4 +258,4 @@ Proyecto de aprendizaje adaptativo con IA para álgebra.
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia incluida en el archivo `LICENSE`.
+Este proyecto está bajo la licencia Apache License 2.0.
